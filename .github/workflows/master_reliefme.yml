@@ -30,4 +30,4 @@ jobs:
       with:
         app-name: 'reliefme'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_84d26a6743514b8ea6ade8d794bb5365 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6ae510cee4f54e9abb491253d014c722 }}
